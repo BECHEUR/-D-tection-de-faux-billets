@@ -1,4 +1,4 @@
-## DÉTECTER DES FAUX BILLETS AVEC PYTHON
+## DETECTER DES FAUX BILLETS AVEC PYTHON
 Projet effectué dans le cadre de ma formation chez OpenClassrooms
 
 ## CONTEXTE ET OBJECTIF DU PROJET
